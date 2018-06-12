@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="DataBase">
+  <DataContextMoniker Name="/DataBaseDataContext" />
+  <nestedChildShapes>
+    <classShape Id="a7eb9b7f-b574-4d92-a18d-5b5d320a0496" absoluteBounds="7, 3, 2, 0.98292277018229179">
+      <DataClassMoniker Name="/DataBaseDataContext/bingren" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4dbd4622-faba-49c8-b92e-abe9279a6c72" absoluteBounds="7.015, 3.46, 1.9700000000000002, 0.42292277018229169" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7fe49e0e-de41-45ed-8a21-d1d822129c03" absoluteBounds="5.125, 2.5, 2, 0.98292277018229179">
+      <DataClassMoniker Name="/DataBaseDataContext/bingren1" />
+      <nestedChildShapes>
+        <elementListCompartment Id="c5c34ae3-5e8a-41c4-b758-1de1dc00c61e" absoluteBounds="5.14, 2.96, 1.9700000000000002, 0.42292277018229169" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5a7db462-48ed-444b-9c2a-239ef6e2a287" absoluteBounds="3.75, 2.25, 2, 0.98292277018229179">
+      <DataClassMoniker Name="/DataBaseDataContext/bingren2" />
+      <nestedChildShapes>
+        <elementListCompartment Id="dbd2c666-dc8e-4a08-b74e-c0d8185954ac" absoluteBounds="3.765, 2.71, 1.9700000000000002, 0.42292277018229169" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5bd06552-653f-4079-a2e9-76a4cee40551" absoluteBounds="2.75, 4.375, 2, 0.98292277018229179">
+      <DataClassMoniker Name="/DataBaseDataContext/病人" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b3029534-72b3-4b13-ab1f-b0693c7f2fc4" absoluteBounds="2.765, 4.835, 1.9700000000000002, 0.42292277018229169" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="58630058-b612-43a3-90bf-213c77edb8e0" absoluteBounds="5.625, 5.125, 2, 0.98292277018229179">
+      <DataClassMoniker Name="/DataBaseDataContext/病人1" />
+      <nestedChildShapes>
+        <elementListCompartment Id="016a4a6f-a45a-4697-9bba-1b54674fd50a" absoluteBounds="5.64, 5.585, 1.9700000000000002, 0.42292277018229169" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c19ff6e2-ae9a-452e-ba55-db9a3e4b5b15" absoluteBounds="1.75, 4.875, 2, 0.98292277018229179">
+      <DataClassMoniker Name="/DataBaseDataContext/病人2" />
+      <nestedChildShapes>
+        <elementListCompartment Id="738387be-efcb-47d0-82a2-ea1e0cbe447d" absoluteBounds="1.7650000000000001, 5.335, 1.9700000000000002, 0.42292277018229169" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="67bc82ab-783d-451e-8ffd-0a676593c428" absoluteBounds="6.25, 1.375, 2, 0.98292277018229179">
+      <DataClassMoniker Name="/DataBaseDataContext/登录" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6885c4eb-7a0d-4eec-b80c-c5c40c6f127b" absoluteBounds="6.265, 1.835, 1.9700000000000002, 0.42292277018229169" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4d24004b-1f1e-46b3-9e6b-979736c5450f" absoluteBounds="5.75, 1.25, 2, 0.98292277018229179">
+      <DataClassMoniker Name="/DataBaseDataContext/登录1" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bc30db46-ef2a-4185-b3ac-81d771a7b7bb" absoluteBounds="5.765, 1.71, 1.9700000000000002, 0.42292277018229169" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8fc8affc-1166-4a5e-bc9d-f81b18e22f35" absoluteBounds="4.5, 1.625, 2, 0.98292277018229179">
+      <DataClassMoniker Name="/DataBaseDataContext/登录2" />
+      <nestedChildShapes>
+        <elementListCompartment Id="32e0dfdc-7ffd-4914-baa2-67d7c485c552" absoluteBounds="4.515, 2.085, 1.9700000000000002, 0.42292277018229169" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d3b4f532-771a-4382-a790-4822de77598d" absoluteBounds="2.75, 1.75, 2, 0.98292277018229179">
+      <DataClassMoniker Name="/DataBaseDataContext/登录3" />
+      <nestedChildShapes>
+        <elementListCompartment Id="69651021-5395-4577-88fe-7882b286606c" absoluteBounds="2.765, 2.21, 1.9700000000000002, 0.42292277018229169" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

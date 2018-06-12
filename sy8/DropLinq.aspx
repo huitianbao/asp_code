@@ -1,0 +1,20 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="DropLinq.aspx.cs" Inherits="sy8_DropLinq" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+    
+        <asp:DropDownList ID="DropDownList1" runat="server" Height="42px" Width="198px">
+        </asp:DropDownList>
+    
+    </div>
+    </form>
+</body>
+</html>

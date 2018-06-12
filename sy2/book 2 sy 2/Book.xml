@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Book>
+  <Book ID="001">
+    <BookName>Web设计</BookName>
+    <Author>沈女士</Author>
+    <Price>39</Price>
+  </Book>
+
+  <Book ID="100">
+    <BookName>Asp.Net</BookName>
+    <Author>张立</Author>
+    <Price>156</Price>
+  </Book>
+
+  <Book ID="104">
+    <BookName>C#高级编程</BookName>
+    <Author>王小明</Author>
+    <Price>119.8</Price>
+  </Book>
+
+
+  <Book ID="106">
+    <BookName>数据访问</BookName>
+    <Author>毛一中</Author>
+    <Price>45.9</Price>
+  </Book>
+  
+</Book>

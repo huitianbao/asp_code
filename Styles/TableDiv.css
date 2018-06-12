@@ -1,0 +1,35 @@
+﻿body {
+}
+
+
+/*   to   Contrl   TableCss.aspx*/
+table {
+    width:100%;
+}
+.navigation {
+    text-align:center;background-color:#99CCFF;
+}
+.status {
+    background-color: #CCFFFF;
+}
+.position {
+    background-color: #33CCCC;
+}
+/*to contril   DivCss.aspx*/
+
+#logo {
+    float: left;
+    width: 13%;
+    height: 40px;
+    margin-right: 0px;
+}
+
+#navigation {
+    background-color: #CCFFFF;
+    height: 30px;
+}
+
+
+#position {
+    background-color: #33CCCC;
+}
